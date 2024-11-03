@@ -1,8 +1,7 @@
 fetch;
 
 const API_URL = "https://api.feegow.com/v1/api/appoints/new-appoint";
-const TOKEN =
-  "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJmZWVnb3ciLCJhdWQiOiJwdWJsaWNhcGkiLCJpYXQiOjE3MzA1Nzg4NjMsImxpY2Vuc2VJRCI6NDE2ODJ9.aqzu_IstRfTBLM-DEZ21y9uVW_zN1Zb-eBsO4zf0L34";
+const TOKEN = "//";
 
 async function criarNovoAgendamento(dadosAgendamento) {
   try {
